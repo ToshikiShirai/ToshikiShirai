@@ -1,0 +1,2 @@
+コンテンツの概要は下記URLで確認できます。
+https://scrapbox.io/c0b2007920-26031145/TypeNumber
