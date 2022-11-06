@@ -1,6 +1,6 @@
 ・プログラム名
 
-　二値分類（犬、猫）
+　画像分類（犬、猫）
 
 ・プログラム概要
 
@@ -9,8 +9,8 @@
 ・利用方法
 
 　1.GoogleDriveのマイドライブに「Colab Notebooks」というフォルダを作成する。
-　2.このファイルと同じフォルダにある「train」「2値分類.ipynb」を「Colab Notebooks」の中に入れる。
-　3.GoogleDriveで「2値分類.ipynb」をクリックし、Google Colaboratory上ですべてのセルを実行する。
+　2.このファイルと同じフォルダにある「train」「画像分類.ipynb」を「Colab Notebooks」の中に入れる。
+　3.GoogleDriveで「画像分類.ipynb」をクリックし、Google Colaboratory上ですべてのセルを実行する。
 
 ・目指した課題解決
 
